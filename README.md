@@ -1,2 +1,2 @@
-# Firstrepo
-My first repository
+# Hey There
+This is Naveen
